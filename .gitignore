@@ -161,3 +161,4 @@ logs/
 spark-warehouse/
 ####other
 *.pyc
+.ipynb_checkpoints/
